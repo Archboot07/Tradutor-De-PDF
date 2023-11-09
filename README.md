@@ -21,11 +21,12 @@ Este é um projeto simples em Python que utiliza PySimpleGUI, PyMuPDF (Fitz), e 
 Certifique-se de ter Python instalado. Você pode instalar as dependências usando:
 
 ```bash
-pip install PySimpleGUI PyMuPDF googletrans==4.0.0-rc1
+
+##pip install PySimpleGUI PyMuPDF googletrans==4.0.0-rc1
 
 
 
-Contribuições
+##Contribuições##
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à
 
 Licença
